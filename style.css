@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    width: 250px;
+    padding: 5px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 8px 12px;
+}
